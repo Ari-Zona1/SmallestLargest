@@ -1,5 +1,5 @@
 # SmallestLargest
-This program will display the largest and smallest (respectively) number that the user provideds. It will first take in terminating value (double) from the user and then takes in multiple numbers (doubles) one by one. When the user is done with the list, they can indicate that by entering the terminating value again. Note that the terminating value is not considered when calculating the smallest and largest.
+This program will display the largest number first and then the smallest number that the user provideds. The program will first take in a terminating value (double) from the user and then takes in multiple numbers (doubles) one by one. When the user is done with the list, they can indicate that by entering the terminating value again. Note that the terminating value is not considered when calculating the smallest and largest.
 
 Example:
 3.00 -> Terminating value
